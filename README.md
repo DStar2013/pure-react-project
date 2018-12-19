@@ -1,6 +1,5 @@
-# pure-react-project
-pure react project，集成有react、react-dom、redux、react-router、redux-saga、antd等project
-
+### 简介
+* 项目集成有 react、react-dom、typescript、redux、react-router、redux-saga、antd等，全家桶真香
 
 ### 启动
 * npm install
@@ -20,4 +19,4 @@ pure react project，集成有react、react-dom、redux、react-router、redux-s
 
 
 ### sth
-1. rem cal ```
+1. 默认视觉稿为1920px，对应的100px换算为1rem

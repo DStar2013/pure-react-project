@@ -23,7 +23,6 @@ module.exports = function override(config, env) {
     })
   };
 
-
   config = rewireLess(config, env);
   return config;
 };
